@@ -86,6 +86,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { title: "Evelin Silvana — Produtos naturais e cosméticos" },
       { name: "description", content: "Site institucional oficial de 68.324.469 EVELIN SILVANA MENDES FEITOSA, CNPJ 68.324.469/0001-10." },
       { name: "author", content: "Evelin Silvana Mendes Feitosa" },
+      { name: "facebook-domain-verification", content: "84q5ua9y98nhykvudo2lefnyvnwogd" },
       { property: "og:site_name", content: "Evelin Silvana" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
